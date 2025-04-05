@@ -71,8 +71,8 @@ The following elements of the Green Clinic TechCare website caused difficulty fo
 
 | Element                                             | Actions                                                                | Comments                                                                                         |
 |-----------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| The “Schedule an Appointment” button is too small   | Some test subjects took extra time to locate this button.              | A larger button would make it easier to find.                                                    |
-| The “What is your current status” option doesn’t clarify testing eligibility for non-faculty/staff | Test subjects were unsure if they could schedule a test as the option only included student or faculty status. | Clearer options for non-affiliated individuals would help.                                         |
+| The “Schedule an Appointment” button is too small.   | Some test subjects took extra time to locate this button.              | A larger button would make it easier to find.                                                    |
+| The “What is your current status” option doesn’t clarify testing eligibility for non-faculty/staff. | Test subjects were unsure if they could schedule a test as the option only included student or faculty status. | Clearer options for non-affiliated individuals would help.                                         |
 
 **Table 4: Ineffective elements of gtechcare.com website**
 
@@ -84,8 +84,8 @@ While the “Book Now” button and the calendar displaying available times shou
 
 | Effective (Keep)   | Ineffective (Revise)                       | Suggested Revision                                                        | Remove | Add  |
 |--------------------|-------------------------------------------|----------------------------------------------------------------------------|--------|------|
-| “Book Now” button  | The “Schedule an Appointment” button is too small | Make this button larger to improve visibility                                |        |      |
-| The calendar       | The “What is your current status” option doesn’t clarify testing eligibility for non-faculty/staff | Add clarification about who can be tested (e.g., non-affiliated individuals) |        |      |
+| “Book Now” button  | The “Schedule an Appointment” button is too small. | Make this button larger to improve visibility.                                |        |      |
+| The calendar       | The “What is your current status” option doesn’t clarify testing eligibility for non-faculty/staff. | Add clarification about who can be tested (e.g., non-affiliated individuals). |        |      |
 
 **Table 5: Suggested improvements for gtechcare.com website**
 
@@ -139,8 +139,8 @@ The following revisions are suggested to improve the Louisiana Tech website’s 
 
 | Effective (Keep)                  | Ineffective (Revise)                         | Suggested Revision                                                    | Remove | Add  |
 |------------------------------------|---------------------------------------------|----------------------------------------------------------------------|--------|------|
-| “Report your Case” button         | The homepage doesn’t clearly show where to report a positive COVID test. | Add a “Coronavirus” option to the menu                                 |        |      |
-| “Quarantine and Isolation Protocol” page | No information on how to proceed with classes after testing positive for COVID | Add information on how to proceed with classes after a positive result to the “Quarantine and Isolation Protocol” page |        |      |
+| “Report your Case” button         | The homepage doesn’t clearly show where to report a positive COVID test. | Add a “Coronavirus” option to the menu.                                 |        |      |
+| “Quarantine and Isolation Protocol” page | No information on how to proceed with classes after testing positive for COVID | Add information on how to proceed with classes after a positive result to the “Quarantine and Isolation Protocol” page. |        |      |
 
 **Table 9: Suggested improvements for latech.edu website**
 
