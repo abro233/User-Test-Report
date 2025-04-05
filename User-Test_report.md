@@ -13,8 +13,8 @@
 | Version | Date           | Changes Made                                                                                                                                                            |
 |---------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.0     | January 1, 2021 | Initial release                                                                                                                                                         |
-| 1.1     | March 25, 2025  | Revised to include more detailed analysis of user test results and suggested improvements. Added tables to reflect user test outcomes and recommended changes.         |
-| 1.2     | April 3, 2025   | Updated with final revisions, including suggestions for clearer button sizes and reporting functionalities for better user experience. Added watermark and title image. |
+| 1.1     | March 25, 2025  | Revised to include more detailed analysis of user test results and suggested improvements. Added tables to reflect user test outcomes and recommended changes         |
+| 1.2     | April 3, 2025   | Updated with final revisions, including suggestions for clearer button sizes and reporting functionalities for better user experience. Added watermark and title image |
 
 ---
 
