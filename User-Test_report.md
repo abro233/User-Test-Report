@@ -20,9 +20,7 @@
 
 ## Overview
 
-The first user test evaluated how effectively three test subjects were able to use the Green Clinic TechCare website to schedule a COVID-19 rapid test appointment and the Louisiana Tech website to report a positive COVID-19 result. The goal was to help the university understand how to proceed with classes after a student has tested positive. Each subject was tasked with completing these activities. The tests took place via Zoom between November 9 and November 12, 2021.
-
-### The test subjects were:
+The first user test evaluated how effectively three test subjects were able to use the Green Clinic TechCare website to schedule a COVID-19 rapid test appointment and the Louisiana Tech website to report a positive COVID-19 result. The goal was to help the university understand how to proceed with classes after a student has tested positive. Each subject was tasked with completing these activities. The tests took place via Zoom between November 9 and November 12, 2021. The test subjects were:
 
 - Charles Rand: Engineer from Monroe, LA
 - Hannah Fulton: ULM student from Monroe, LA
