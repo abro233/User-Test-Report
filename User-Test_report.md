@@ -154,12 +154,6 @@ Overall, the Green Clinic TechCare website was easy to use, with minor adjustmen
 
 ---
 
-### **Concluding Thoughts**
-
-Overall, the Green Clinic TechCare website was easy to use, with minor adjustments needed for button size and clarity about testing eligibility for non-affiliated individuals. For the Louisiana Tech website, the main improvement is making it easier to find where to report a positive COVID test and providing information about class procedures after testing positive.
-
----
-
 ### **Suggested Revisions and Reason for Changes**
 
 | **Revisions** | **Reason** |
@@ -169,10 +163,8 @@ Overall, the Green Clinic TechCare website was easy to use, with minor adjustmen
 | Add a “Coronavirus” option to the homepage menu | This will make it easier for users to find where to report a positive test result |
 | Add information on how to proceed with classes after testing positive for COVID | This will make it easier for users to know how to proceed with their coursework |
 
----
-
 **Table 10: Suggested revisions and reason for changes**
 
+---
+
 By implementing these revisions, users will have a clearer and more efficient experience reporting a positive COVID test result and scheduling or continuing their classes.
-
-
