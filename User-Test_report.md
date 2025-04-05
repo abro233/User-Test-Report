@@ -59,7 +59,7 @@ The following elements of the Green Clinic TechCare website contributed to the e
 | Element                               | Actions                                                                 | Comments                                                                                  |
 |---------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | “Book Now” button is easy to find    | All test subjects easily found this button and clicked on it to schedule their appointment. | The button’s large size and central placement made it highly visible and user-friendly. |
-| The calendar displaying available times | All test subjects used the calendar to schedule appointments quickly. | No issues reported.                                                                     |
+| The calendar displaying available times | All test subjects used the calendar to schedule appointments quickly. | No issues were reported.                                                                     |
 
 **Table 3: Effective elements of gtechcare.com website**
 
@@ -113,8 +113,8 @@ The effective elements of the Louisiana Tech website for reporting a positive CO
 
 | Element                                             | Actions                                                                | Comments                                                                                         |
 |-----------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| The “Quarantine and Isolation Protocol” page is effective | One subject who reached this page was able to identify it as a resource for reporting a positive test. | No issues reported.                                                                             |
-| The “Report your Case” button is easy to find      | One subject easily clicked this button to report a positive result.     | The button’s size and color made it stand out.                                                  |
+| The “Quarantine and Isolation Protocol” page is effective. | One subject who reached this page was able to identify it as a resource for reporting a positive test. | No issues were reported.                                                                             |
+| The “Report your Case” button is easy to find.      | One subject easily clicked this button to report a positive result.     | The button’s size and color made it stand out.                                                  |
 
 **Table 7: Effective elements of latech.edu website**
 
@@ -126,7 +126,7 @@ The following elements of the Louisiana Tech website caused difficulty:
 
 | Element                                                        | Actions                                                                | Comments                                                                                         |
 |----------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| The homepage doesn’t clearly show where to report a positive COVID test | Two subjects could not find the reporting page and abandoned the task. | Adding a dedicated “Coronavirus” section in the menu could help.                                  |
+| The homepage doesn’t clearly show where to report a positive COVID test. | Two subjects could not find the reporting page and abandoned the task. | Adding a dedicated “Coronavirus” section in the menu could help.                                  |
 | No information on how to proceed with classes after testing positive for COVID | The one subject who continued could not find information about class procedures. | This information should be included on the “Quarantine and Isolation Protocol” page. |
 
 **Table 8: Ineffective elements of latech.edu website**
@@ -139,7 +139,7 @@ The following revisions are suggested to improve the Louisiana Tech website’s 
 
 | Effective (Keep)                  | Ineffective (Revise)                         | Suggested Revision                                                    | Remove | Add  |
 |------------------------------------|---------------------------------------------|----------------------------------------------------------------------|--------|------|
-| “Report your Case” button         | The homepage doesn’t clearly show where to report a positive COVID test | Add a “Coronavirus” option to the menu                                 |        |      |
+| “Report your Case” button         | The homepage doesn’t clearly show where to report a positive COVID test. | Add a “Coronavirus” option to the menu                                 |        |      |
 | “Quarantine and Isolation Protocol” page | No information on how to proceed with classes after testing positive for COVID | Add information on how to proceed with classes after a positive result to the “Quarantine and Isolation Protocol” page |        |      |
 
 **Table 9: Suggested improvements for latech.edu website**
@@ -156,10 +156,10 @@ Overall, the Green Clinic TechCare website was easy to use, with minor adjustmen
 
 | **Revisions** | **Reason** |
 | --- | --- |
-| Make the “Schedule an Appointment” button larger | This will make it easier for users to find and click the button |
-| Specify whether people who aren’t faculty or staff can be tested | This will make it easier for users to know if they can get tested |
-| Add a “Coronavirus” option to the homepage menu | This will simplify the process for finding where to report a positive test result |
-| Add information on how to proceed with classes after testing positive for COVID | This will make it easier for users to know how to proceed with their coursework |
+| Make the “Schedule an Appointment” button larger. | This will make it easier for users to find and click the button. |
+| Specify whether people who aren’t faculty or staff can be tested. | This will make it easier for users to know if they can get tested. |
+| Add a “Coronavirus” option to the homepage menu. | This will simplify the process for finding where to report a positive test result. |
+| Add information on how to proceed with classes after testing positive for COVID. | This will make it easier for users to know how to proceed with their coursework. |
 
 **Table 10: Suggested revisions and reason for changes**
 
