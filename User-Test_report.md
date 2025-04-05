@@ -6,7 +6,7 @@
 **Version:** 1.2  
 **Date:** April 3, 2025  
 
---
+---
 
 ## Version History
 
