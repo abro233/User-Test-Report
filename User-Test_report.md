@@ -58,7 +58,7 @@ The following elements of the Green Clinic TechCare website contributed to the e
 
 | Element                               | Actions                                                                 | Comments                                                                                  |
 |---------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| “Book Now” button is easy to find    | All test subjects easily found this button and clicked on it to schedule their appointment. | The button’s large size and central placement made it highly visible and user-friendly. |
+| “Book Now” button is easy to find.    | All test subjects easily found this button and clicked on it to schedule their appointment. | The button’s large size and central placement made it highly visible and user-friendly. |
 | The calendar displaying available times | All test subjects used the calendar to schedule appointments quickly. | No issues were reported.                                                                     |
 
 **Table 3: Effective elements of gtechcare.com website**
