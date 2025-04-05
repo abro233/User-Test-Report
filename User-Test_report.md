@@ -160,7 +160,7 @@ Overall, the Green Clinic TechCare website was easy to use, with minor adjustmen
 | --- | --- |
 | Make the “Schedule an Appointment” button larger | This will make it easier for users to find and click the button |
 | Specify whether people who aren’t faculty or staff can be tested | This will make it easier for users to know if they can get tested |
-| Add a “Coronavirus” option to the homepage menu | This will make it easier for users to find where to report a positive test result |
+| Add a “Coronavirus” option to the homepage menu | This will simplify the process for finding where to report a positive test result |
 | Add information on how to proceed with classes after testing positive for COVID | This will make it easier for users to know how to proceed with their coursework |
 
 **Table 10: Suggested revisions and reason for changes**
